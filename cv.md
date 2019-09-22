@@ -9,6 +9,8 @@ phone number: +375 29 334-04-73
 
 email: kategurik22@gmail.com
 
+telegram: @kategurik
+
 
 ## Summary:
 
