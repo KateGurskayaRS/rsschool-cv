@@ -19,7 +19,7 @@ I want to improve my skills in HTML and CSS. I would also like to learn basics o
 
 ## Skills:
 
-Photoshop
+Photoshop, 1C
 
 
 ## Experience:
